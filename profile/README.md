@@ -1,12 +1,14 @@
-## Hi there 👋
+## Welcome to Be Fit For Life! 🦄
 
-<!--
 
-**Here are some ideas to get you started:**
+Be Fit For Life is the #1 all-in-one fitness company to keep you fit and healthy in one place: Workout, Food tracking, Period tracking, Water intake, Fasting, & more!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+With Be Fit With Jess Mobile App, our company's main product, we changed thousands of lives across Thailand, providing real tools and guidance to take proper care of your health. 🚀
+
+### Get started 🙌
+Learn more about [Be Fit For Life](https://www.linkedin.com/company/befitforlife-ltd), learn about [Jess](https://www.instagram.com/befitwithjess), or check out our [supplement brand](https://befitbalance.com/).
+
+You can check out our app on the [iOS](https://apps.apple.com/th/app/be-fit-with-jess-fit-diet/id6466455799) and [Android](https://play.google.com/store/apps/details?id=com.be_fit_with_jess_flutter.app&hl=en&pli=1) stores!
+
+### Get involved 👋
+Are you a passionate developer obsessed with innovation? Check out the exciting open positions at [Be Fit For Life](https://www.linkedin.com/company/befitforlife-ltd) and join our crew! 🧑‍🚀 
