@@ -1,7 +1,7 @@
 # Welcome to Be Fit For Life! 
 
 
-Be Fit For Life is the #1 all-in-one fitness company to keep you fit and healthy in one place: Workout, Food tracking, Period tracking, Water intake, Fasting, & more! 🚀
+**Be Fit For Life** is the #1 all-in-one fitness company to keep you fit and healthy in one place: **Workout, Food tracking, Period tracking, Water intake, Fasting, & more!** 🚀
 
 ## Get started 🙌
 Learn more about [Be Fit For Life](https://www.linkedin.com/company/befitforlife-ltd), learn about [Jess](https://www.instagram.com/befitwithjess), or check out our [supplement brand](https://befitbalance.com/).
